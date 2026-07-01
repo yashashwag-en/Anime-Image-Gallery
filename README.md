@@ -1,8 +1,6 @@
 # 🎌 Anime Image Gallery
 
-> *"Not every project has to solve a problem. Some projects are built simply because they bring a smile to your face."*
-
-![Anime Image Gallery](./screenshot.png)
+> *"Not every project has to solve a problem. Some projects are built simply because they bring a smile to your face."
 
 ---
 

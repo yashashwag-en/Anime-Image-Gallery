@@ -110,7 +110,7 @@ If you have suggestions, ideas, or improvements, feel free to open an issue or s
 
 ## 👨‍💻 Author
 
-**Yashashwa Garg**
+**Yashaswa Garg**
 
 GitHub: https://github.com/yashashwag-en
 
